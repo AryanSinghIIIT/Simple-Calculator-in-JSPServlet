@@ -24,7 +24,9 @@ Error Handling: Implement error handling to deal with invalid input, such as div
 # Demo Video 
 
 
+https://github.com/AryanSinghIIIT/Simple-Calculator-in-JSPServlet/assets/96579866/ed83d4e0-51b2-4047-bbe6-ed8a4c51276d
 
-https://github.com/AryanSinghIIIT/Simple-Calculator-in-JSPServlet/assets/96579866/7f20a837-eb92-4ddc-82c7-6157dd5dda2b
+
+
 
 
